@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NewApp\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1509B4EC-52F2-4F52-809D-E3C3085FEB2B}|BikeConsulting.Api\\BikeConsulting.Api.csproj|d:\\newapp\\backend\\bikeconsulting.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1509B4EC-52F2-4F52-809D-E3C3085FEB2B}|BikeConsulting.Api\\BikeConsulting.Api.csproj|solutionrelative:bikeconsulting.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1509B4EC-52F2-4F52-809D-E3C3085FEB2B}|BikeConsulting.Api\\BikeConsulting.Api.csproj|d:\\newapp\\backend\\bikeconsulting.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1509B4EC-52F2-4F52-809D-E3C3085FEB2B}|BikeConsulting.Api\\BikeConsulting.Api.csproj|solutionrelative:bikeconsulting.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1509B4EC-52F2-4F52-809D-E3C3085FEB2B}|BikeConsulting.Api\\BikeConsulting.Api.csproj|d:\\newapp\\backend\\bikeconsulting.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1509B4EC-52F2-4F52-809D-E3C3085FEB2B}|BikeConsulting.Api\\BikeConsulting.Api.csproj|solutionrelative:bikeconsulting.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26E5E28-2F81-4F06-8BF8-ECDF656A2D18}|BikeConsulting.Business\\BikeConsulting.Business.csproj|d:\\newapp\\backend\\bikeconsulting.business\\contract\\iusercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26E5E28-2F81-4F06-8BF8-ECDF656A2D18}|BikeConsulting.Business\\BikeConsulting.Business.csproj|solutionrelative:bikeconsulting.business\\contract\\iusercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26E5E28-2F81-4F06-8BF8-ECDF656A2D18}|BikeConsulting.Business\\BikeConsulting.Business.csproj|d:\\newapp\\backend\\bikeconsulting.business\\implementation\\usercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26E5E28-2F81-4F06-8BF8-ECDF656A2D18}|BikeConsulting.Business\\BikeConsulting.Business.csproj|solutionrelative:bikeconsulting.business\\implementation\\usercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB08568-AAA1-475D-BB98-FF65422E81DF}|BikeConsulting.Data\\BikeConsulting.Data.csproj|d:\\newapp\\backend\\bikeconsulting.data\\contract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB08568-AAA1-475D-BB98-FF65422E81DF}|BikeConsulting.Data\\BikeConsulting.Data.csproj|solutionrelative:bikeconsulting.data\\contract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB08568-AAA1-475D-BB98-FF65422E81DF}|BikeConsulting.Data\\BikeConsulting.Data.csproj|d:\\newapp\\backend\\bikeconsulting.data\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB08568-AAA1-475D-BB98-FF65422E81DF}|BikeConsulting.Data\\BikeConsulting.Data.csproj|solutionrelative:bikeconsulting.data\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1C81A4-1F6B-47B6-9D3A-9D765DBF4EF9}|BikeConsulting.Framework\\BikeConsulting.Framework.csproj|d:\\newapp\\backend\\bikeconsulting.framework\\utility\\bikeconsultingconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1C81A4-1F6B-47B6-9D3A-9D765DBF4EF9}|BikeConsulting.Framework\\BikeConsulting.Framework.csproj|solutionrelative:bikeconsulting.framework\\utility\\bikeconsultingconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1509B4EC-52F2-4F52-809D-E3C3085FEB2B}|BikeConsulting.Api\\BikeConsulting.Api.csproj|d:\\newapp\\backend\\bikeconsulting.api\\validation\\user\\usermodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1509B4EC-52F2-4F52-809D-E3C3085FEB2B}|BikeConsulting.Api\\BikeConsulting.Api.csproj|solutionrelative:bikeconsulting.api\\validation\\user\\usermodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1509B4EC-52F2-4F52-809D-E3C3085FEB2B}|BikeConsulting.Api\\BikeConsulting.Api.csproj|d:\\newapp\\backend\\bikeconsulting.api\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1509B4EC-52F2-4F52-809D-E3C3085FEB2B}|BikeConsulting.Api\\BikeConsulting.Api.csproj|solutionrelative:bikeconsulting.api\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1509B4EC-52F2-4F52-809D-E3C3085FEB2B}|BikeConsulting.Api\\BikeConsulting.Api.csproj|d:\\newapp\\backend\\bikeconsulting.api\\model\\auth\\tokenrefreshmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1509B4EC-52F2-4F52-809D-E3C3085FEB2B}|BikeConsulting.Api\\BikeConsulting.Api.csproj|solutionrelative:bikeconsulting.api\\model\\auth\\tokenrefreshmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1509B4EC-52F2-4F52-809D-E3C3085FEB2B}|BikeConsulting.Api\\BikeConsulting.Api.csproj|d:\\newapp\\backend\\bikeconsulting.api\\model\\auth\\tokenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1509B4EC-52F2-4F52-809D-E3C3085FEB2B}|BikeConsulting.Api\\BikeConsulting.Api.csproj|solutionrelative:bikeconsulting.api\\model\\auth\\tokenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1509B4EC-52F2-4F52-809D-E3C3085FEB2B}|BikeConsulting.Api\\BikeConsulting.Api.csproj|d:\\newapp\\backend\\bikeconsulting.api\\model\\user\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1509B4EC-52F2-4F52-809D-E3C3085FEB2B}|BikeConsulting.Api\\BikeConsulting.Api.csproj|solutionrelative:bikeconsulting.api\\model\\user\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1509B4EC-52F2-4F52-809D-E3C3085FEB2B}|BikeConsulting.Api\\BikeConsulting.Api.csproj|d:\\newapp\\backend\\bikeconsulting.api\\model\\auth\\userloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1509B4EC-52F2-4F52-809D-E3C3085FEB2B}|BikeConsulting.Api\\BikeConsulting.Api.csproj|solutionrelative:bikeconsulting.api\\model\\auth\\userloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D5D986-A9C7-41A5-82F6-FAE687A2F728}|BikeConsulting.Dto\\BikeConsulting.Dto.csproj|d:\\newapp\\backend\\bikeconsulting.dto\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D5D986-A9C7-41A5-82F6-FAE687A2F728}|BikeConsulting.Dto\\BikeConsulting.Dto.csproj|solutionrelative:bikeconsulting.dto\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1509B4EC-52F2-4F52-809D-E3C3085FEB2B}|BikeConsulting.Api\\BikeConsulting.Api.csproj|d:\\newapp\\backend\\bikeconsulting.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1509B4EC-52F2-4F52-809D-E3C3085FEB2B}|BikeConsulting.Api\\BikeConsulting.Api.csproj|solutionrelative:bikeconsulting.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NewApp\\Backend\\BikeConsulting.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BikeConsulting.Api\\Program.cs",
+              "ToolTip": "D:\\NewApp\\Backend\\BikeConsulting.Api\\Program.cs",
+              "RelativeToolTip": "BikeConsulting.Api\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:28:56.537Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\NewApp\\Backend\\BikeConsulting.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "BikeConsulting.Api\\appsettings.json",
+              "ToolTip": "D:\\NewApp\\Backend\\BikeConsulting.Api\\appsettings.json",
+              "RelativeToolTip": "BikeConsulting.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-04T05:29:02.881Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BikeConsultingConstants.cs",
+              "DocumentMoniker": "D:\\NewApp\\Backend\\BikeConsulting.Framework\\Utility\\BikeConsultingConstants.cs",
+              "RelativeDocumentMoniker": "BikeConsulting.Framework\\Utility\\BikeConsultingConstants.cs",
+              "ToolTip": "D:\\NewApp\\Backend\\BikeConsulting.Framework\\Utility\\BikeConsultingConstants.cs",
+              "RelativeToolTip": "BikeConsulting.Framework\\Utility\\BikeConsultingConstants.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:27:15.281Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\NewApp\\Backend\\BikeConsulting.Dto\\User\\UserDto.cs",
+              "RelativeDocumentMoniker": "BikeConsulting.Dto\\User\\UserDto.cs",
+              "ToolTip": "D:\\NewApp\\Backend\\BikeConsulting.Dto\\User\\UserDto.cs",
+              "RelativeToolTip": "BikeConsulting.Dto\\User\\UserDto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:27:34.004Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\NewApp\\Backend\\BikeConsulting.Api\\Model\\User\\UserModel.cs",
+              "RelativeDocumentMoniker": "BikeConsulting.Api\\Model\\User\\UserModel.cs",
+              "ToolTip": "D:\\NewApp\\Backend\\BikeConsulting.Api\\Model\\User\\UserModel.cs",
+              "RelativeToolTip": "BikeConsulting.Api\\Model\\User\\UserModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:29:24.501Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserLoginModel.cs",
+              "DocumentMoniker": "D:\\NewApp\\Backend\\BikeConsulting.Api\\Model\\Auth\\UserLoginModel.cs",
+              "RelativeDocumentMoniker": "BikeConsulting.Api\\Model\\Auth\\UserLoginModel.cs",
+              "ToolTip": "D:\\NewApp\\Backend\\BikeConsulting.Api\\Model\\Auth\\UserLoginModel.cs",
+              "RelativeToolTip": "BikeConsulting.Api\\Model\\Auth\\UserLoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:29:21.87Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TokenRequestModel.cs",
+              "DocumentMoniker": "D:\\NewApp\\Backend\\BikeConsulting.Api\\Model\\Auth\\TokenRequestModel.cs",
+              "RelativeDocumentMoniker": "BikeConsulting.Api\\Model\\Auth\\TokenRequestModel.cs",
+              "ToolTip": "D:\\NewApp\\Backend\\BikeConsulting.Api\\Model\\Auth\\TokenRequestModel.cs",
+              "RelativeToolTip": "BikeConsulting.Api\\Model\\Auth\\TokenRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:29:20.254Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TokenRefreshModel.cs",
+              "DocumentMoniker": "D:\\NewApp\\Backend\\BikeConsulting.Api\\Model\\Auth\\TokenRefreshModel.cs",
+              "RelativeDocumentMoniker": "BikeConsulting.Api\\Model\\Auth\\TokenRefreshModel.cs",
+              "ToolTip": "D:\\NewApp\\Backend\\BikeConsulting.Api\\Model\\Auth\\TokenRefreshModel.cs",
+              "RelativeToolTip": "BikeConsulting.Api\\Model\\Auth\\TokenRefreshModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:29:18.54Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\NewApp\\Backend\\BikeConsulting.Api\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "BikeConsulting.Api\\Mapper\\MappingProfile.cs",
+              "ToolTip": "D:\\NewApp\\Backend\\BikeConsulting.Api\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "BikeConsulting.Api\\Mapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:29:27.163Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserModelValidator.cs",
+              "DocumentMoniker": "D:\\NewApp\\Backend\\BikeConsulting.Api\\Validation\\User\\UserModelValidator.cs",
+              "RelativeDocumentMoniker": "BikeConsulting.Api\\Validation\\User\\UserModelValidator.cs",
+              "ToolTip": "D:\\NewApp\\Backend\\BikeConsulting.Api\\Validation\\User\\UserModelValidator.cs",
+              "RelativeToolTip": "BikeConsulting.Api\\Validation\\User\\UserModelValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:29:09.483Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\NewApp\\Backend\\BikeConsulting.Data\\Implementation\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BikeConsulting.Data\\Implementation\\UserRepository.cs",
+              "ToolTip": "D:\\NewApp\\Backend\\BikeConsulting.Data\\Implementation\\UserRepository.cs",
+              "RelativeToolTip": "BikeConsulting.Data\\Implementation\\UserRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwEgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:27:49.781Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\NewApp\\Backend\\BikeConsulting.Data\\Contract\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "BikeConsulting.Data\\Contract\\IUserRepository.cs",
+              "ToolTip": "D:\\NewApp\\Backend\\BikeConsulting.Data\\Contract\\IUserRepository.cs",
+              "RelativeToolTip": "BikeConsulting.Data\\Contract\\IUserRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:28:00.238Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserComponent.cs",
+              "DocumentMoniker": "D:\\NewApp\\Backend\\BikeConsulting.Business\\Implementation\\UserComponent.cs",
+              "RelativeDocumentMoniker": "BikeConsulting.Business\\Implementation\\UserComponent.cs",
+              "ToolTip": "D:\\NewApp\\Backend\\BikeConsulting.Business\\Implementation\\UserComponent.cs",
+              "RelativeToolTip": "BikeConsulting.Business\\Implementation\\UserComponent.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwCkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:28:10.985Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserComponent.cs",
+              "DocumentMoniker": "D:\\NewApp\\Backend\\BikeConsulting.Business\\Contract\\IUserComponent.cs",
+              "RelativeDocumentMoniker": "BikeConsulting.Business\\Contract\\IUserComponent.cs",
+              "ToolTip": "D:\\NewApp\\Backend\\BikeConsulting.Business\\Contract\\IUserComponent.cs",
+              "RelativeToolTip": "BikeConsulting.Business\\Contract\\IUserComponent.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:28:15.908Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\NewApp\\Backend\\BikeConsulting.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BikeConsulting.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\NewApp\\Backend\\BikeConsulting.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BikeConsulting.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAArwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:29:41.573Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\NewApp\\Backend\\BikeConsulting.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BikeConsulting.Api\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\NewApp\\Backend\\BikeConsulting.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BikeConsulting.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:29:43.144Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+2026-10-04 17:51:17.127 +05:30 [ERR] Failed executing DbCommand (231ms) [Parameters=[@UserName='?' (Size = 2), @Password='?' (Size = 64), @OTP='?', @ReturnValue='?' (Size = -1) (Direction = Output)], CommandType='"Text"', CommandTimeout='30']
+exec [User].[ProcValidateUserLogin] @UserName,@Password,@OTP,@ReturnValue OUTPUT

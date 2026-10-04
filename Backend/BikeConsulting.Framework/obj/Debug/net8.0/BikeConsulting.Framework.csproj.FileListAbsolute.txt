@@ -1,0 +1,11 @@
+D:\NewApp\Backend\BikeConsulting.Framework\obj\Debug\net8.0\BikeConsulting.Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewApp\Backend\BikeConsulting.Framework\obj\Debug\net8.0\BikeConsulting.Framework.AssemblyInfoInputs.cache
+D:\NewApp\Backend\BikeConsulting.Framework\obj\Debug\net8.0\BikeConsulting.Framework.AssemblyInfo.cs
+D:\NewApp\Backend\BikeConsulting.Framework\obj\Debug\net8.0\BikeConsulting.Framework.csproj.CoreCompileInputs.cache
+D:\NewApp\Backend\BikeConsulting.Framework\bin\Debug\net8.0\BikeConsulting.Framework.deps.json
+D:\NewApp\Backend\BikeConsulting.Framework\bin\Debug\net8.0\BikeConsulting.Framework.dll
+D:\NewApp\Backend\BikeConsulting.Framework\bin\Debug\net8.0\BikeConsulting.Framework.pdb
+D:\NewApp\Backend\BikeConsulting.Framework\obj\Debug\net8.0\BikeConsulting.Framework.dll
+D:\NewApp\Backend\BikeConsulting.Framework\obj\Debug\net8.0\refint\BikeConsulting.Framework.dll
+D:\NewApp\Backend\BikeConsulting.Framework\obj\Debug\net8.0\BikeConsulting.Framework.pdb
+D:\NewApp\Backend\BikeConsulting.Framework\obj\Debug\net8.0\ref\BikeConsulting.Framework.dll
